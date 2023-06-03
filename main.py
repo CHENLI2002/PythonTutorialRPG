@@ -1,3 +1,10 @@
+"""
+    Author: Chen Li
+    File: main.py
+    Comment: This Game is incomplete as most of the contents are repetitive. However, this project demonstrates some
+             useful concepts enough.
+"""
+
 from classes.game import Person, bcolor
 
 magic = [{"name": "SuperDuperFireBall", "cost": 1, "dmg": 100},
